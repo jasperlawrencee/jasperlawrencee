@@ -1,7 +1,11 @@
 <img src='https://i.pinimg.com/originals/8d/ae/09/8dae09ebedb41177afe7efe1255a6290.gif' width="100%">
 
+```Top 1 Global Philippines in the World Multiplatform Developer```
+---
+[![](https://visitcount.itsvg.in/api?id=jasperlawrencee&icon=10&color=6)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
-🔭 I’m currently working on myself(thorfinn era)<br>🌱 I’m currently learning React Native & Typescript<br>⚡ Fun fact I'm a father of 3 children(cats)
+🔭 I’m currently working on a website<br>🌱 I’m currently learning React Native & Typescript<br>⚡ Fun fact I have 3 cars (orange, white, and calico)
 
 
 ## 🌐 Socials:
@@ -13,8 +17,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=jasperlawrencee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jasperlawrencee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperlawrencee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=jasperlawrencee&icon=10&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

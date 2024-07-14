@@ -16,8 +16,9 @@
 ---
 <p align="center">
  <img src="https://img.shields.io/badge/Flutter-%2320232a?style=for-the-badge&logo=flutter&logoColor=White"  height="25"/>
- <img src="https://img.shields.io/badge/Firebase-%2320232a?style=for-the-badge&logo=firebase&logoColor=White"  height="25"/>
  <img src="https://img.shields.io/badge/c++-%2320232a?style=for-the-badge&logo=c%2B%2B&&logoColor=White" height="25"/>
+ <img src="https://img.shields.io/badge/Rust-%2320232a?style=for-the-badge&logo=rust&logoColor=White" height="25"/>
+ <img src="https://img.shields.io/badge/Firebase-%2320232a?style=for-the-badge&logo=firebase&logoColor=White"  height="25"/>
  <img src="https://img.shields.io/badge/Javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=White"  height="25"/>
  <img src="https://img.shields.io/badge/Python-%2320232a?style=for-the-badge&logo=python&logoColor=White" height="25"/>
 </p>

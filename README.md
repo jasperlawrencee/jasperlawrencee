@@ -11,7 +11,7 @@
 <li>👩🏿‍💻 Fullstack Multiplatform Developer
 <li>🏎️ I have three cars (orange, white, and calico)
 
-<h4>Stuff that I use when working (order is based on level of mastery)</h4>
+<h4>Stuff that I use when working</h4>
 
 ---
 <p align="center">

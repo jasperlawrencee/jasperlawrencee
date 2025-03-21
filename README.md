@@ -17,6 +17,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/Flutter-%2320232a?style=for-the-badge&logo=flutter&logoColor=White"  height="25"/>
  <img src="https://img.shields.io/badge/Firebase-%2320232a?style=for-the-badge&logo=firebase&logoColor=White"  height="25"/>
+ <img src="https://img.shields.io/badge/Typescript-%2320232a?style=for-the-badge&logo=typescript&logoColor=White"  height="25"/>
  <img src="https://img.shields.io/badge/Javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=White"  height="25"/>
  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=React&logoColor=White"  height="25"/>
  <img src="https://img.shields.io/badge/React Native-%2320232a?style=for-the-badge&logo=React&logoColor=White"  height="25"/>

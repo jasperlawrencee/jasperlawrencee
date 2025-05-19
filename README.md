@@ -21,8 +21,10 @@
  <img src="https://img.shields.io/badge/Javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=White"  height="25"/>
  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=React&logoColor=White"  height="25"/>
  <img src="https://img.shields.io/badge/React Native-%2320232a?style=for-the-badge&logo=React&logoColor=White"  height="25"/>
+ <img src="https://img.shields.io/badge/Tailwind-%2320232a?style=for-the-badge&logo=tailwindcss&logoColor=White"  height="25"/>
  <img src="https://img.shields.io/badge/Python-%2320232a?style=for-the-badge&logo=python&logoColor=White" height="25"/>
  <img src="https://img.shields.io/badge/c++-%2320232a?style=for-the-badge&logo=c%2B%2B&&logoColor=White" height="25"/>
  <img src="https://img.shields.io/badge/Rust-%2320232a?style=for-the-badge&logo=rust&logoColor=White" height="25"/>
+ <img src="https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma&logoColor=Black" height="25"/>
 </p>
 <!-- Proudly Presenting Jasper and Kissa Computer Center -->

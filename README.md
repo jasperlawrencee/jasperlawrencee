@@ -6,7 +6,7 @@
 <h4>About me</h4>
 
 ---
-<li>🎓 Pursuing an undergraduate Information Systems degree
+<li>🎓 Graduated with an Information Systems Degree
 <li>💻 Currently working on a C2C website application
 <li>👩🏿‍💻 Fullstack Multiplatform Developer
 <li>🏎️ I have three cars (orange, white, and calico)
